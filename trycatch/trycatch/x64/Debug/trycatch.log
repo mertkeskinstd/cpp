@@ -1,0 +1,3 @@
+﻿  try.cpp
+D:\c+++\trycatch\trycatch\try.cpp(18,13): warning C4101: 'hatakodu': yerel değişken başvurusu kaldırıldı
+  trycatch.vcxproj -> D:\c+++\trycatch\x64\Debug\trycatch.exe
